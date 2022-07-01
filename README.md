@@ -44,7 +44,6 @@ Cálculo de la ecuación de la malla 3
 
 Solución del sistema de ecuaciones
 
-![image](https://user-images.githubusercontent.com/105606339/176930349-42dcad02-4f33-483c-b131-844d5b6ca051.png)
 
 ![image](https://user-images.githubusercontent.com/105606339/176931338-dfaf81e4-f669-4768-8a88-47eca3bd51dc.png)
 
