@@ -82,7 +82,7 @@ Para calcular el voltaje VA primero calculamos la corriente que pasa por la resi
 
 ### Por lo tanto Ix y VA del circuito:
 
-![image](https://user-images.githubusercontent.com/105606339/176935824-c46de3a6-a401-4669-a1d8-327f3ce24d48.png)
+![image](https://user-images.githubusercontent.com/105606339/176945287-f848a7a4-bd8c-4a57-9181-a15951be401e.png)
 
 ### RESULTADOS SIMULADOS
 
