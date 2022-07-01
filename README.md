@@ -48,11 +48,11 @@ Solución del sistema de ecuaciones
 ![image](https://user-images.githubusercontent.com/105606339/176931338-dfaf81e4-f669-4768-8a88-47eca3bd51dc.png)
 
 
-Cálculo de Ix
+### Cálculo de Ix
 
 ![image](https://user-images.githubusercontent.com/105606339/176931374-a5e7be61-9b5f-4d78-b353-1b9dc6bfadaa.png)
 
-Cálculo de VA
+### Cálculo de VA
 
 ![image](https://user-images.githubusercontent.com/105606339/176931682-056787d9-547d-4832-9f4f-242b20d7e2de.png)
 
@@ -60,15 +60,15 @@ Cálculo de VA
 
 ![image](https://user-images.githubusercontent.com/105606339/176932868-0e71ab5c-215d-4df6-b300-a4e561eaa4cc.png)
 
-Cálculo de la resistencia total
+### Cálculo de la resistencia total
 
 ![image](https://user-images.githubusercontent.com/105606339/176933271-64027a72-e6e5-449c-8ba2-b75c462c724a.png)
 
-Cálculo de la corriente total
+### Cálculo de la corriente total
 
 ![image](https://user-images.githubusercontent.com/105606339/176933343-15485712-c307-457f-8a3a-e72f90be7bef.png)
 
-Cálculo de la corriente Ix
+### Cálculo de la corriente Ix
 
 ![image](https://user-images.githubusercontent.com/105606339/176933643-7dcf1f40-1375-418c-8839-28bb7bec90c2.png)
 
@@ -76,12 +76,11 @@ Para calcular el voltaje VA primero calculamos la corriente que pasa por la resi
 
 ![image](https://user-images.githubusercontent.com/105606339/176934417-56a1beff-ed6b-4487-96a0-ecd297d7bb35.png)
 
-Cálculo del voltaje VA
+### Cálculo del voltaje VA
 
 ![image](https://user-images.githubusercontent.com/105606339/176934481-16ac73b9-10da-4fab-ab19-c2cc434d686a.png)
 
-
-Por lo tanto Ix y VA del circuito:
+### Por lo tanto Ix y VA del circuito:
 
 ![image](https://user-images.githubusercontent.com/105606339/176935824-c46de3a6-a401-4669-a1d8-327f3ce24d48.png)
 
@@ -104,6 +103,14 @@ Por lo tanto Ix y VA del circuito:
 ![image](https://user-images.githubusercontent.com/105606339/176939845-2f3221b2-c64a-4b1f-bfa6-d6e76478e1e4.png)
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
+
+### Errores de cálculo del voltaje VA
+
+![image](https://user-images.githubusercontent.com/105606339/176941139-742007f9-08e4-42ce-a84a-2cdee0590a9a.png)
+
+### Errores de cálculo de la corriente Ix
+
+![image](https://user-images.githubusercontent.com/105606339/176941175-83f0b705-f616-46b0-b953-d58353d7f222.png)
 
 ## CONCLUSIONES
 
