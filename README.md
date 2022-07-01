@@ -28,7 +28,7 @@ Comprobar el método de superposición mediante los cálculos y la simulación d
 
 ![image](https://user-images.githubusercontent.com/105606339/176928135-521379a3-77f1-4c9f-ac07-cb97e4359f0b.png)
 
-Corriente de mallas
+Corrientes de mallas
 
 Cálculo de la ecuación de la malla 1
 
