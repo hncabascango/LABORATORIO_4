@@ -28,22 +28,21 @@ Comprobar el método de superposición mediante los cálculos y la simulación d
 
 ![image](https://user-images.githubusercontent.com/105606339/176928135-521379a3-77f1-4c9f-ac07-cb97e4359f0b.png)
 
-Corrientes de mallas
+### Corrientes de mallas
 
-Cálculo de la ecuación de la malla 1
+### Cálculo de la ecuacion de la malla 1
 
 ![image](https://user-images.githubusercontent.com/105606339/176928411-bade2086-ce20-4523-a77a-588c8d00ee66.png)
 
-Cálculo de la ecuación de la malla 2
+### Cálculo de la ecuación de la malla 2
 
 ![image](https://user-images.githubusercontent.com/105606339/176928488-60ef431b-50dc-4789-850f-bf0b38a178e7.png)
 
-Cálculo de la ecuación de la malla 3
+### Cálculo de la ecuación de la malla 3
 
 ![image](https://user-images.githubusercontent.com/105606339/176928673-b1f10296-e32c-4e1e-9f0a-c06dee80e4ed.png)
 
-Solución del sistema de ecuaciones
-
+### Solución del sistema de ecuaciones
 
 ![image](https://user-images.githubusercontent.com/105606339/176931338-dfaf81e4-f669-4768-8a88-47eca3bd51dc.png)
 
@@ -95,8 +94,7 @@ Para calcular el voltaje VA primero calculamos la corriente que pasa por la resi
 
 ### TABLA DE MEDICIÓN DE VOLTAJE APLICANDO SUPERPOSICIÓN
 
-![image](https://user-images.githubusercontent.com/105606339/176939809-600a9e2a-1854-437d-ae39-c8cfa7b7931e.png)
-
+![image](https://user-images.githubusercontent.com/105606339/176945510-bc76da63-ba33-4a35-b3a4-dae9b145717c.png)
 
 ### TABLA DE MEDICIÓN DE CORRIENTE APLICANDO SUPERPOSICIÓN
 
