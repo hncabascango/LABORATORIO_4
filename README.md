@@ -96,8 +96,13 @@ Por lo tanto Ix y VA del circuito:
 
 
 ### TABLA DE MEDICIÓN DE VOLTAJE APLICANDO SUPERPOSICIÓN
+
+![image](https://user-images.githubusercontent.com/105606339/176939809-600a9e2a-1854-437d-ae39-c8cfa7b7931e.png)
+
+
 ### TABLA DE MEDICIÓN DE CORRIENTE APLICANDO SUPERPOSICIÓN
 
+![image](https://user-images.githubusercontent.com/105606339/176939845-2f3221b2-c64a-4b1f-bfa6-d6e76478e1e4.png)
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
 
